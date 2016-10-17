@@ -1,0 +1,20 @@
+html,body{
+	margin: 0;
+}
+nav{
+	width: 80%;
+	margin: 0 auto;
+}
+
+a{
+	color: black;
+}
+.avterbox{
+	margin-top: 5%;
+	text-align: center;
+
+}
+#avter{
+	width: 150px;
+	height: auto;
+}
