@@ -1,20 +1,105 @@
 html,body{
 	margin: 0;
 }
-nav{
+#box{
 	width: 80%;
 	margin: 0 auto;
 }
-
-a{
-	color: black;
+video{
+	width: 80%;
 }
-.avterbox{
-	margin-top: 5%;
+#video{
 	text-align: center;
+}
+#base-table{
+	text-align: center;
+}
+.yanyuan-left{
+	width: 30%;
+	height: 15%;
+	margin-left: 10%;
+	float: left;
+}
+.yanyuan-right{
+	width: 30%;
+	height: 15%;
+	margin-left: 15%;
+	float: left;
+}
+.yantuan-img-left{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-right: 10%;
 
 }
-#avter{
-	width: 150px;
-	height: auto;
+.yanyuan-img-right{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-right: 10%;
+
+}
+.yanyuan-text-left{
+
+}
+.yanyuan-text1{
+	margin-top: 3%;
+
+}
+.yanyuan-text2{
+	margin-top: 3%;
+	float: left;
+}
+.yanyuan-text-right{
+}
+.footer{
+	clear: left;
+}
+.yanyuan{
+	margin-top: 5%;
+	width: 100%;
+	height: 120px;
+}
+.juese{
+	width: 80%;
+	margin-top: 5%;
+	height: 195px;
+}
+.juese-img{
+	width: 138px;
+	height: 195px;
+	margin-left: 10%;
+	float: left;
+}
+.juese-text{
+	width: 69%;
+	float: left;
+	margin-left: 5%;
+}
+.juese-title{
+	font-size: 18px;
+
+}
+.juese-detail{
+	margin-top: 4%;
+	font-size: 18px;
+}
+.yinyue-left{
+	width: 220px;
+	height: 340px;
+	margin-left: 10%;
+	float: left;
+}
+.yinyue-right{
+	width: 220px;
+	height: 340px;
+	margin-left: 30%;
+	float: left;
+}
+.yinyue-box{
+	height: 1000px;
+}
+.huaxu{
+	font-size: 18px;
 }
